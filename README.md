@@ -11,6 +11,8 @@ Hi, I am Priyadarshini! 👋 I’m passionate about web development 🌐 and alw
 ![](https://github-readme-stats.vercel.app/api?username=Priyadarshinimulloli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyadarshinimulloli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshinimulloli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Priyadarshinimulloli)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyadarshinimulloli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
