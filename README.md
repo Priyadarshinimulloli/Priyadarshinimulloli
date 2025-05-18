@@ -25,7 +25,7 @@ Hi, I am Priyadarshini! 👋 I’m passionate about web development 🌐 and alw
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyadarshinimulloli&show_icons=true&count_private=true&theme=radical)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyadarshinimulloli&show_icons=true&count_private=true&theme=radical&cache_bust=1)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyadarshinimulloli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshinimulloli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Priyadarshinimulloli)
