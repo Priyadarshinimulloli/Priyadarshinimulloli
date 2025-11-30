@@ -9,23 +9,24 @@ Hi, I am Priyadarshini! 👋 I’m passionate about web development 🌐 and alw
 # 💻 Tech Stack:
 
 ### 👨‍💻 Languages  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://skillicons.dev/icons?i=c&theme=light)
+![Java](https://skillicons.dev/icons?i=java&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)
 
 ### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://skillicons.dev/icons?i=html&theme=light)
+![CSS3](https://skillicons.dev/icons?i=css&theme=light)
+![React](https://skillicons.dev/icons?i=react&theme=light)
 
 ### 💾 Backend & Database  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://skillicons.dev/icons?i=spring&theme=light)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
 
 ### ⚙️ Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)
+![Git](https://skillicons.dev/icons?i=git&theme=light)
+![Vercel](https://skillicons.dev/icons?i=vercel&theme=light)
+
 
 
 # 📊 GitHub Stats:
